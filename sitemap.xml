@@ -88,6 +88,111 @@
   </url>
   
   <url>
+    <loc>/publication/endolithic-fungal-species-marker/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fungi/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.e.-and-selbmann/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biocrusts/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biological-soil-crusts/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/de-ley/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dryland/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/insights-into-drylands-microbiome/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mojave-desert/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-and-stajich/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pietrasiak/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biocrust/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/clair/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dispersal/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.e.-and-aanderud/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kurbessoian/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lewis/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reproduction/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/reproduction-dispersal/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stark/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/warren/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/altitude-and-fungal-diversity/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
@@ -104,11 +209,6 @@
   
   <url>
     <loc>/author/f.-and-selbmann/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fungi/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -140,11 +240,6 @@
   <url>
     <loc>/author/p.-and-selbmann/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.e.-and-selbmann/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -250,6 +345,18 @@
   </url>
   
   <url>
+    <loc>/author/l.a./</loc>
+  </url>
+  
+  <url>
+    <loc>/author/l.l.s./</loc>
+  </url>
+  
+  <url>
+    <loc>/author/l.r./</loc>
+  </url>
+  
+  <url>
     <loc>/author/n./</loc>
   </url>
   
@@ -266,7 +373,19 @@
   </url>
   
   <url>
+    <loc>/author/s.d./</loc>
+  </url>
+  
+  <url>
     <loc>/author/s.e./</loc>
+  </url>
+  
+  <url>
+    <loc>/author/t./</loc>
+  </url>
+  
+  <url>
+    <loc>/author/z.t./</loc>
   </url>
   
 </urlset>

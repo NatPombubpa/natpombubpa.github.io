@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pietrasiak | Nat Pombubpa</title>
+    <link>/author/pietrasiak/</link>
+      <atom:link href="/author/pietrasiak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pietrasiak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Nuttapon (Nat) Pombubpa </copyright><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf7e2fb9ad537b20cc319e23134389096_28760_512x512_fill_lanczos_center_2.png</url>
+      <title>Pietrasiak</title>
+      <link>/author/pietrasiak/</link>
+    </image>
+    
+    <item>
+      <title>Insights into the desert living skin microbiome geography, soil depth, and crust type affect biocrust microbail communities and networks in Mojave Desert, USA</title>
+      <link>/publication/insights-into-drylands-microbiome/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/insights-into-drylands-microbiome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
