@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fungi | Nat Pombubpa</title>
+    <link>/tag/fungi/</link>
+      <atom:link href="/tag/fungi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fungi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Nuttapon (Nat) Pombubpa </copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf7e2fb9ad537b20cc319e23134389096_28760_512x512_fill_lanczos_center_2.png</url>
+      <title>Fungi</title>
+      <link>/tag/fungi/</link>
+    </image>
+    
+    <item>
+      <title>Altitude and fungal diversity influence the structure of Antarctic cryptoendolithic Bacteria communities</title>
+      <link>/publication/altitude-and-fungal-diversity/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/altitude-and-fungal-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sun exposure shapes functional grouping of fungi in cryptoendolithic Antarctic communities</title>
+      <link>/publication/sun-exposure/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-exposure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

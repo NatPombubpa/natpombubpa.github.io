@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabiana Canini | Nat Pombubpa</title>
+    <link>/author/fabiana-canini/</link>
+      <atom:link href="/author/fabiana-canini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabiana Canini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Nuttapon (Nat) Pombubpa © 2019 - 2020</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf7e2fb9ad537b20cc319e23134389096_28760_512x512_fill_lanczos_center_2.png</url>
+      <title>Fabiana Canini</title>
+      <link>/author/fabiana-canini/</link>
+    </image>
+    
+    <item>
+      <title>Altitude and fungal diversity influence the structure of Antarctic cryptoendolithic Bacteria communities</title>
+      <link>/publication/altitude-and-fungal-diversity/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/altitude-and-fungal-diversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

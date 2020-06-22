@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annotatin fungal ITS | Nat Pombubpa</title>
+    <link>/tag/annotatin-fungal-its/</link>
+      <atom:link href="/tag/annotatin-fungal-its/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annotatin fungal ITS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Nuttapon (Nat) Pombubpa </copyright><lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huf7e2fb9ad537b20cc319e23134389096_28760_512x512_fill_lanczos_center_2.png</url>
+      <title>Annotatin fungal ITS</title>
+      <link>/tag/annotatin-fungal-its/</link>
+    </image>
+    
+    <item>
+      <title>Annotating public fungal ITS sequences from the built environment according to the MIxS-Built Environment standard–a report from a May 23-24, 2016 workshop (Gothenburg, Sweden)</title>
+      <link>/publication/annotating-public-fungal-its-sequences/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/annotating-public-fungal-its-sequences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
